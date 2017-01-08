@@ -2,7 +2,6 @@ checkpoint
 lenet.*
 traffic-signs-data.zip
 traffic-signs-data
-street-sign-images
 data
 .ipynb_checkpoints
 *.h5
